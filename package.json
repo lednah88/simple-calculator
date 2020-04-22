@@ -1,0 +1,22 @@
+{
+    "name": "simple-calculator",
+    "version": "1.0.0",
+    "description": "a simple calculator project using TDD approach",
+    "main": "index.js",
+    "scripts": {
+        "test": "jasmine"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lednah88/simple-calculator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lednah88/simple-calculator/issues"
+    },
+    "homepage": "https://github.com/lednah88/simple-calculator#readme",
+    "dependencies": {
+        "jasmine": "^3.5.0"
+    }
+}
